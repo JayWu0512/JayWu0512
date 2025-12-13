@@ -79,6 +79,8 @@ Lexi is an AI-powered education platform built to remove barriers for neurodiver
   </a>
 </p>
 
+<hr/>
+
 <h3>FinScope3D — End-to-End Data Science Pipeline for Financial Modeling</h3>
 
 <p>
