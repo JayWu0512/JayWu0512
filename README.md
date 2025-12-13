@@ -1,7 +1,8 @@
 <!-- ========================= -->
 <!-- INTRO (ALWAYS VISIBLE) -->
 <!-- ========================= -->
-<h1 align="center">Hi, I'm Jay Wu!</h1>
+
+<h1 align="center">Sung-Tse Wu (Jay)</h1>
 
 <p align="center">
 AI Engineer · Data Scientist · Open Source Contributor
@@ -12,13 +13,17 @@ I build AI-powered products that turn data into real-world impact.
 </p>
 
 <p align="center">
-<strong>Personal Website:</strong>
-<a href="https://sung-tse-wu-jay.vercel.app/" target="_blank">
-sung-tse-wu-jay.vercel.app
-</a>
++1 (919) 423-1825 &nbsp;|&nbsp;
+<a href="mailto:jaywu05120512@gmail.com">jaywu05120512@gmail.com</a>
+&nbsp;|&nbsp;
+<a href="https://www.linkedin.com/in/sung-tse-wu/" target="_blank">LinkedIn</a>
+&nbsp;|&nbsp;
+<a href="https://github.com/JayWu0512" target="_blank">GitHub</a>
+&nbsp;|&nbsp;
+<a href="https://sung-tse-wu-jay.vercel.app/" target="_blank">Portfolio</a>
 </p>
 
----
+<hr/>
 
 <!-- ========================= -->
 <!-- DISCOVER MORE (LEVEL 1) -->
