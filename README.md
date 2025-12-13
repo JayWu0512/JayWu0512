@@ -55,7 +55,8 @@ I build AI-powered products that turn data into real-world impact.
 <h3>SkillMiner — AI Career & Study Copilot</h3>
 
 <p>
-An AI-powered platform that analyzes resumes, identifies skill gaps, and generates personalized learning plans.
+SkillMiner is an AI-powered career & study copilot.
+It analyzes your resume, extracts skills, identifies gaps, retrieves learning resources, and generates a personalized study plan powered by an LLM agent, RAG system, and a modern data engineering pipeline.
 </p>
 
 <p align="center">
@@ -69,7 +70,7 @@ An AI-powered platform that analyzes resumes, identifies skill gaps, and generat
 <h3>Lexi — The Neurodiverse Learning Coach</h3>
 
 <p>
-A multimodal learning platform designed to support students with Dyslexia, ADHD, and other learning differences using generative AI.
+Lexi is an AI-powered education platform built to remove barriers for neurodiverse learners. Traditional education often fails students with Dyslexia, ADHD, and Dyscalculia because it relies heavily on dense text and rigid structures. This application uses Gemini 3 Pro to adapt learning materials to the user's brain, not the other way around.
 </p>
 
 <p align="center">
