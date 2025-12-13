@@ -73,6 +73,8 @@ A multimodal learning platform designed to support students with Dyslexia, ADHD,
   </a>
 </p>
 
+---
+
 </details>
 
 <!-- ========================= -->
