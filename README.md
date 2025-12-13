@@ -60,7 +60,7 @@ An AI-powered platform that analyzes resumes, identifies skill gaps, and generat
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=5HNZr0QxKIk" target="_blank">
-    <img src="https://img.youtube.com/vi/5HNZr0QxKIk/maxresdefault.jpg" width="60%" />
+    <img src="https://img.youtube.com/vi/5HNZr0QxKIk/maxresdefault.jpg" width="40%" />
   </a>
 </p>
 
@@ -74,7 +74,19 @@ A multimodal learning platform designed to support students with Dyslexia, ADHD,
 
 <p align="center">
   <a href="https://youtu.be/WBUIakMCIl0" target="_blank">
-    <img src="https://img.youtube.com/vi/WBUIakMCIl0/maxresdefault.jpg" width="60%" />
+    <img src="https://img.youtube.com/vi/WBUIakMCIl0/maxresdefault.jpg" width="40%" />
+  </a>
+</p>
+
+<h3>FinScope3D — End-to-End Data Science Pipeline for Financial Modeling</h3>
+
+<p>
+FinScope3D is an AI-powered financial analysis system that transforms complex financial statements into interactive insights, combining large language models with structured financial data to support investment research and decision-making.
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=rx6D4VRTPIQ&list=PL6FWNwNPGCE69AJLQYmrkA5wPXB5dv64O&index=9" target="_blank">
+    <img src="https://img.youtube.com/vi/rx6D4VRTPIQ/maxresdefault.jpg" width="40%" />
   </a>
 </p>
 
