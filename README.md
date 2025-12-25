@@ -13,7 +13,6 @@ I build AI-powered products that turn data into real-world impact.
 </p>
 
 <p align="center">
-+1 (919) 423-1825 &nbsp;|&nbsp;
 <a href="mailto:jaywu05120512@gmail.com">jaywu05120512@gmail.com</a>
 &nbsp;|&nbsp;
 <a href="https://www.linkedin.com/in/sung-tse-wu/" target="_blank">LinkedIn</a>
