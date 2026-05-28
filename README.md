@@ -5,7 +5,7 @@
 <h1 align="center">Sung-Tse Wu (Jay)</h1>
 
 <p align="center">
-Machine Learning Engineer · Data Scientist · Open Source Contributor
+Machine Learning Engineer · Data Scientist
 </p>
 
 <p align="center">
